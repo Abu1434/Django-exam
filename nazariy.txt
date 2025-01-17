@@ -1,0 +1,15 @@
+1-savol: Django frameworki nima va qanday maqsadda ishlatiladi?
+Javob: Django bizga dasturlashni frontend qismini backend qismiga ulab beradigan asos
+
+2-savol: Bootstrap yordamida Web-sayt yaratishda asosiy jarayonlar qanday amalga oshiriladi?
+Javob: Birinchi bolib bootstrapning havolasi html file ga title ni tagidan link deb yozilib
+usha yerga qoyiladi va yana script deb yozib yana bir havola qoyiladi, song saytni ozini
+yozamiz, css html codni ichidagi classlarga beriladi yoki holasak alohida css file ochib yanada
+koproq ozgarishlar kiritish mumkun
+
+3-savol: Django’da yangi ilova (app) yaratishda startapp buyrug‘ining roli nima?
+Javob: Uning roli bizga application ochib berishda
+
+4-savol: Django admin paneli nima va u qanday ishlatiladi?
+Javob: Django admin paneli bu bizning malumotlar bazamizga ozgarish kiritish uchun ishlatiladigan
+bir panel, ya'ni bazadagi malumotni ochirish yoki qoshish uchun ishlatiladi
